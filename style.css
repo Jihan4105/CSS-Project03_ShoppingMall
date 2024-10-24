@@ -770,7 +770,13 @@ footer .copyright {
 
 }
 
+
 /* CONTACT PAGE */
+
+#page-header.contact-header {
+  background-image: linear-gradient(rgba(11, 15, 27, 0.5), rgba(25, 38, 54, 0.5)),url("img/banner/b20.jpg");
+  background-position: center;
+}
 
 #contact-details {
   display: flex;
@@ -1160,7 +1166,7 @@ footer .copyright {
     gap: 80px;
   }
 
-  #contact-detials .details {
+  #contact-details .details {
     width: 100%;
   }
 
